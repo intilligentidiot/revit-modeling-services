@@ -1,5 +1,16 @@
 [
- {
+  {
+    "id": 3,
+    "url": "posts/the-synergistic-nexus-integrating-revit-models-facility-management-future-proof-construction.html",
+    "title": "The Synergistic Nexus: Integrating Revit Models with Facility Management for Future-Proof Construction",
+    "description": "Click to read more about The Synergistic Nexus: Integrating Revit Models with Facility Management for Future-Proof Construction",
+    "image": "https://image.pollinations.ai/prompt/The%20Synergistic%20Nexus%20Integrating%20Revit%20Models%20construction%20architecture%208k%20photorealistic?width=1280&height=720&nologo=true",
+    "date": "February 2, 2026",
+    "tags": [
+      "Technology"
+    ]
+  },
+  {
     "id": 2,
     "title": "From 2D to 3D: How Migrating to Revit Modeling Reduces On-Site Construction Errors",
     "url": "posts/from-2d-to-3d-revit-reduces-construction-errors.html",
