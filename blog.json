@@ -1,36 +1,5 @@
 [
-  {
-    "id": 5,
-    "url": "posts/the-future-of-built-assets-revit-fm-integration-for-enhanced-lifecycle-management.html",
-    "title": "The Future of Built Assets: A Deep Dive into Revit-FM Integration for Enhanced Lifecycle Management",
-    "description": "Click to read more about The Future of Built Assets: A Deep Dive into Revit-FM Integration for Enhanced Lifecycle Management",
-    "image": "https://image.pollinations.ai/prompt/The%20Future%20of%20Built%20Assets%20A%20Deep%20Dive%20into%20RevitFM%20Integration%20for%20Enhanced%20Lifecycle%20Management%20architecture%20engineering%20photorealistic%208k%20cinematic%20lighting?width=1280&height=720&nologo=true",
-    "date": "February 2, 2026",
-    "tags": [
-      "Technology"
-    ]
-  },
-  {
-    "id": 4,
-    "url": "posts/future-construction-revit-fm-integration.html",
-    "title": "The Future of Construction: Seamless Integration of Revit Models with Facility Management",
-    "description": "Click to read more about The Future of Construction: Seamless Integration of Revit Models with Facility Management",
-    "image": "https://image.pollinations.ai/prompt/The%20Future%20of%20Construction%3A%20Seamless%20Integration%20of%20Revit%20Models%20with%20Facility%20Management%20industrial%20engineering%20structure%208k?width=1280&height=720&nologo=true",
-    "date": "February 2, 2026",
-    "tags": [
-      "Technology"
-    ]
-  },
-  {
-    "id": 3,
-    "title": "Beyond Design: The Synergistic Integration of Revit Models and Facility Management for Predictive Building Lifecycle Optimization",
-    "link": "posts/beyond-design-revit-fm-integration-predictive-lifecycle.html",
-    "image": "https://image.pollinations.ai/prompt/Beyond%20Design%3A%20The%20Synergistic%20Integration%20of%20Revit%20Models%20and%20Facility%20Management%20for%20Predictive%20Building%20Lifecycle%20Optimization%20industrial%20engineering%20structure%208k?width=1280&height=720&nologo=true",
-    "date": "February 2, 2026",
-    "excerpt": "Click to read more about Beyond Design: The Synergistic Integration of Revit Models and Facility Management for Predictive Building Lifecycle Optimization",
-    "category": "Technology"
-  },
-  {
+ {
     "id": 2,
     "title": "From 2D to 3D: How Migrating to Revit Modeling Reduces On-Site Construction Errors",
     "url": "posts/from-2d-to-3d-revit-reduces-construction-errors.html",
