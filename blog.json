@@ -4,10 +4,10 @@
     "url": "posts/future-construction-revit-fm-integration.html",
     "title": "The Future of Construction: Integrating Revit Models with Facility Management (FM) – An Ultimate Guide",
     "description": "Click to read more about The Future of Construction: Integrating Revit Models with Facility Management (FM) – An Ultimate Guide",
-    "image": "https://image.pollinations.ai/prompt/The%20Future%20of%20Construction%3A%20Integrating%20Revit%20Models%20with%20Facility%20Management%20(FM)%20%E2%80%93%20An%20Ultimate%20Guide%20industrial%20engineering%20structure%208k?width=1280&height=720&nologo=true",
+    "image": "posts/images/future_construction.png",
     "date": "February 5, 2026",
     "tags": [
-      "Technology"
+      "Revit Modeling"
     ]
   },
   {
@@ -15,10 +15,10 @@
     "url": "posts/the-future-of-construction-integrating-revit-models-with-facility-management.html",
     "title": "The Future of Construction: Seamless Integration of Revit Models with Facility Management for Optimized Lifecycle Performance",
     "description": "Click to read more about The Future of Construction: Seamless Integration of Revit Models with Facility Management for Optimized Lifecycle Performance",
-    "image": "https://image.pollinations.ai/prompt/The%20Future%20of%20Construction%3A%20Seamless%20Integration%20of%20Revit%20Models%20with%20Facility%20Management%20for%20Optimized%20Lifecycle%20Performance%20industrial%20engineering%20structure%208k?width=1280&height=720&nologo=true",
+    "image": "posts/images/the_future_of_construction.png",
     "date": "February 2, 2026",
     "tags": [
-      "Technology"
+      "Revit Modeling"
     ]
   },
   {
@@ -26,10 +26,10 @@
     "url": "posts/the-synergistic-nexus-integrating-revit-models-facility-management-future-proof-construction.html",
     "title": "The Synergistic Nexus: Integrating Revit Models with Facility Management for Future-Proof Construction",
     "description": "Click to read more about The Synergistic Nexus: Integrating Revit Models with Facility Management for Future-Proof Construction",
-    "image": "https://image.pollinations.ai/prompt/The%20Synergistic%20Nexus%20Integrating%20Revit%20Models%20construction%20architecture%208k%20photorealistic?width=1280&height=720&nologo=true",
+    "image": "posts/images/synergistic_nexus.png",
     "date": "February 2, 2026",
     "tags": [
-      "Technology"
+      "Revit Modeling"
     ]
   },
   {
@@ -37,6 +37,7 @@
     "title": "From 2D to 3D: How Migrating to Revit Modeling Reduces On-Site Construction Errors",
     "url": "posts/from-2d-to-3d-revit-reduces-construction-errors.html",
     "link": "posts/from-2d-to-3d-revit-reduces-construction-errors.html",
+    "description": "The global Architecture, Engineering, and Construction (AEC) industry, a cornerstone of economic development and infrastructure, has long grappled with a persistent and costly challenge:",
     "image": "https://image.pollinations.ai/prompt/From%202D%20to%203D%3A%20How%20Migrating%20to%20Revit%20Modeling%20Reduces%20On-Site%20Construction%20Errors%20industrial%20engineering%20structure%20photorealistic%208k?width=1280&height=720&nologo=true",
     "date": "January 29, 2026",
     "excerpt": "Click to read more about From 2D to 3D: How Migrating to Revit Modeling Reduces On-Site Construction Errors",
@@ -50,7 +51,7 @@
     "date": "2026-01-22",
     "isoDate": "2026-01-22T13:25:41.241Z",
     "tags": [
-      "Technology"
+      "Revit Modeling"
     ],
     "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80"
   }
