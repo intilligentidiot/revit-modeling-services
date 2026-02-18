@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: sitemap.xml
+Sitemap: https://intilligentidiot.github.io/revit-modeling-services/sitemap.xml

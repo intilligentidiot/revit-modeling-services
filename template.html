@@ -5,7 +5,46 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{title}}</title>
-    <meta name="description" content="{{title}}">
+    <meta name="description" content="{{description}}">
+    <link rel="canonical" href="{{url}}" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{url}}">
+    <meta property="og:title" content="{{title}}">
+    <meta property="og:description" content="{{description}}">
+    <meta property="og:image" content="{{banner_image}}">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{url}}">
+    <meta property="twitter:title" content="{{title}}">
+    <meta property="twitter:description" content="{{description}}">
+    <meta property="twitter:image" content="{{banner_image}}">
+
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "{{title}}",
+      "image": "{{banner_image}}",
+      "author": {
+        "@type": "Person",
+        "name": "AI Author"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BIM Services India",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://intilligentidiot.github.io/revit-modeling-services/posts/images/revit_conversion_showcase.png"
+        }
+      },
+      "datePublished": "{{date}}",
+      "description": "{{description}}"
+    }
+    </script>
 
     <link rel="preconnect" href="https://cdn.tailwindcss.com">
     <link rel="preconnect" href="https://cdnjs.cloudflare.com">
