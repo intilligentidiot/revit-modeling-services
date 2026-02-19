@@ -1,0 +1,25 @@
+# Enable Rewrite Engine
+RewriteEngine On
+
+# 1. Force HTTPS
+# Redirects all HTTP traffic to HTTPS for security
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# 2. Canonicalize index.html
+# Redirects /index.html to / to avoid duplicate content
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP/
+RewriteRule ^index\.html$ / [R=301,L]
+
+# 3. Custom Error Page
+# Serves 404.html when a page is not found
+ErrorDocument 404 /404.html
+
+# 4. Default Directory Page
+# Ensures index.html is loaded when visiting a directory
+DirectoryIndex index.html
+
+# Optional: WWW to Non-WWW Redirection
+# Uncomment the following lines to force non-www (e.g., www.example.com -> example.com)
+# RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+# RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
