@@ -1,4 +1,10 @@
 document.addEventListener("DOMContentLoaded", function () {
+    // URL Cleaning: Remove 'index.html' from the address bar without reloading
+    if (window.location.pathname.endsWith('/index.html')) {
+        const newPath = window.location.pathname.replace('/index.html', '/');
+        window.history.replaceState(null, '', newPath);
+    }
+
     const footerPlaceholder = document.getElementById("footer-placeholder");
     if (!footerPlaceholder) return;
 
